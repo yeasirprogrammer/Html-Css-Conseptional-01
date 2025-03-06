@@ -1,3 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h2{
-    color: aquamarine;
+    color: rgb(176, 232, 8);
+    text-align: center;
+    font-weight:500 ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 100px;
+
+}
+#heading-paranet{
+    background-color: grey;
+    height: 600px;
+    padding: 200px;
+    width: 700px; 
+    /* margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto; */
+    margin: 20px auto;
+
 }
